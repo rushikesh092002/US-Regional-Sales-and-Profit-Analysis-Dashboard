@@ -98,7 +98,7 @@ The dataset contains the following columns:
 ## 👨‍💻 Author
 
 **Rushikesh Gaikhe**  
-📧 Email: [your email here]  
+📧 Email: rushikeshgaikhe09@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/rushikeshgaikhe/)  
 🐙 [GitHub](https://github.com/RushikeshGaikhe)
 
